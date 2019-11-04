@@ -1,5 +1,4 @@
 from microbit import*
-import music
 
 
 # pins
