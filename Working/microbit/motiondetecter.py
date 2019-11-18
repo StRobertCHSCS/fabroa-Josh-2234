@@ -1,6 +1,4 @@
 from microbit import*
-import music
-
 
 # pins
 Motion_detector = pin0
